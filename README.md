@@ -1,2 +1,2 @@
 # SolarSystem
-a simple SolarSystem, my first project
+a simple SolarSystem, my first java project
